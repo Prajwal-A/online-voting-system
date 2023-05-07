@@ -1,6 +1,5 @@
 # online-voting-system
 
-Introduction:-
 Voting is a fundamental right of every citizen and to make this process a bit easy we have brought online voting system where a person can vote anytime at his own comfort place. This web application is divided into two modules.
 
 1] Voter Module
