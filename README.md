@@ -22,12 +22,12 @@ Voting is a fundamental right of every citizen and to make this process a bit ea
    d)Voting - Group can choose to vote to anyone group listed in his dashboard  
    e)Logout
    
-Technologies used:-
-Front-End - HTML, CSS and JavaScript
-Back-End - PHP
-Database - MySQL
+Technologies used:-  
+Front-End - HTML, CSS and JavaScript  
+Back-End - PHP  
+Database - MySQL  
 
-Applications Required:-
-Code editor - Notepad / VS Code / Sublime Text
-Browser - Chrome / FireFox
-XAMPP / WAMP / MAMP / LAMP
+Applications Required:-  
+Code editor - Notepad / VS Code / Sublime Text  
+Browser - Chrome / FireFox  
+XAMPP / WAMP / MAMP / LAMP  
