@@ -17,14 +17,10 @@ Voting is a fundamental right of every citizen and to make this process a bit ea
 
    Features:-
    
-   a)Group Registration
-   
-   b)Group Login
-   
-   c)Dashboard - Group can see its profile info, voting status, and list of groups
-   
-   d)Voting - Group can choose to vote to anyone group listed in his dashboard
-   
+   a)Group Registration  
+   b)Group Login  
+   c)Dashboard - Group can see its profile info, voting status, and list of groups  
+   d)Voting - Group can choose to vote to anyone group listed in his dashboard  
    e)Logout
    
 Technologies used:-
